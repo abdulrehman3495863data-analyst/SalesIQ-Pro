@@ -1,16 +1,10 @@
 # 📊 SalesIQ Pro — Dynamic Interactive Business Intelligence Application
 
 ## 🔗 Live Production Deployment
-🎯 **[Interact with the Live Dashboard Demo Here]([https://github.io](https://abdulrehman3495863data-analyst.github.io/SalesIQ-Pro/))**
+🎯 **[Interact with the Live Dashboard Demo Here](https://abdulrehman3495863data-analyst.github.io/SalesIQ-Pro/)**
 
 ---
 
-## 🎥 Project Walkthrough & Interface Preview
-*Neeche aapka dynamic dashboard ka full live video preview chal raha hai:*
-
-<video src="SalesIQ_Pro.mp4" width="100%" controls></video>
-
----
 
 ## 🧠 Technical Roadmap & My Engineering Journey (AI-Assisted Development)
 This application represents a full-scale exercise in **Data Operations, System Architecture, and AI Pair Programming**. Over an intensive production cycle, I served as the Core Architect to engineer the entire product lifecycle:
