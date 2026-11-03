@@ -8,7 +8,10 @@
 # 🎥 Executive Interface Walkthrough
 *Enterprise-grade interface performance and cross-filtering latency verification.*
 
-<video src="SalesIQ_Pro.mp4" width="100%" controls></video>
+
+https://github.com/user-attachments/assets/ea3150dd-f44a-47c6-b58c-d384b730b5ba
+
+
 
 ## 🧠 Technical Roadmap & My Engineering Journey (AI-Assisted Development)
 This application represents a full-scale exercise in **Data Operations, System Architecture, and AI Pair Programming**. Over an intensive production cycle, I served as the Core Architect to engineer the entire product lifecycle:
