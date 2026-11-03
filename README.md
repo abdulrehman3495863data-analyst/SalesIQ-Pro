@@ -1,7 +1,7 @@
 # 📊 SalesIQ Pro — Dynamic Interactive Business Intelligence Application
 
 ## 🔗 Live Production Deployment
-🎯 **[Interact with the Live Dashboard Demo Here](https://github.io)**
+🎯 **[Interact with the Live Dashboard Demo Here]([https://github.io](https://abdulrehman3495863data-analyst.github.io/SalesIQ-Pro/))**
 
 ---
 
